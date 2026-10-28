@@ -22,7 +22,7 @@ Enroll in CSS 360 Software Engineering and CSS 370 Analysis and Design early in 
 
 ### Mastering Backend Data and Cloud Infrastructure
 
-Static frontend interfaces fail to meet production standards unless supported by robust backend data structures and modern cloud deployment pipelines. Modern full-stack development requires balancing application logic with containerized server environments and cloud database management.
+Static frontend interfaces fail to meet production standards unless supported by robust backend data structures and modern cloud deployment pipelines [2]. Modern full-stack development requires balancing application logic with containerized server environments and cloud database management.
 
 Schedule CSS 475 Database Systems and CSS 436 Cloud Computing during your senior sequence to master relational database optimization and cloud-native infrastructure provisioning. Pair these courses with independent study on Docker containerization and continuous integration workflows.
 
@@ -30,13 +30,13 @@ Schedule CSS 475 Database Systems and CSS 436 Cloud Computing during your senior
 
 ### Contributing to Collaborative GitHub Projects and Hackathons
 
-Class assignments alone do not simulate the code review, branching complexities, and merge conflict resolution characteristic of professional engineering teams. Engaging with open-source repositories and collegiate hackathons builds your collaborative version control proficiency and demonstrates real-world output to hiring managers.
+Class assignments alone do not simulate the code review, branching complexities, and merge conflict resolution characteristic of professional engineering teams. Engaging with open-source repositories and collegiate hackathons builds your collaborative version control proficiency and demonstrates real-world output to hiring managers [3].
 
 Participate in UWB ACM hackathons and fork active open-source projects on GitHub to practice pull request workflows, issue tracking, and code reviews. Maintain regular contribution graphs to signal technical dedication to prospective employers.
 
 ### Completing Industry Internships and Capstone Milestones
 
-Failing to align academic quarter schedules with corporate recruitment timelines results in missed hiring windows for competitive software engineering internships. Strategic planning of your final quarters synchronizes graduation milestones with optimal corporate application cycles.
+Failing to align academic quarter schedules with corporate recruitment timelines results in missed hiring windows for competitive software engineering internships [1]. Strategic planning of your final quarters synchronizes graduation milestones with optimal corporate application cycles.
 
 Coordinate your course schedule with recruitment windows by reviewing Figure 1 below, mapping your junior and senior internship application phases directly alongside your capstone enrollment.
 
@@ -45,7 +45,7 @@ Coordinate your course schedule with recruitment windows by reviewing Figure 1 b
 
 ## Developing Professional Communication and Interview Readiness
 
-Technical competency remains insufficient for hiring success if you cannot articulate your problem-solving process or demonstrate professional teamwork. Recruiters evaluate behavioral soft skills and structured communication alongside your technical coding capabilities during screening pipelines.
+Technical competency remains insufficient for hiring success if you cannot articulate your problem-solving process or demonstrate professional teamwork [4]. Recruiters evaluate behavioral soft skills and structured communication alongside your technical coding capabilities during screening pipelines [5].
 
 Practice the STAR (Situation, Task, Action, Result) method for behavioral interviews and build National Association of Colleges and Employers (NACE) career readiness competencies through mock technical presentations and informational interviews with industry professionals. Explain complex code adjustments clearly during peer evaluations to refine your technical communication skills.
 
