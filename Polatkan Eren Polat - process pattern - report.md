@@ -30,7 +30,7 @@ Failing to align academic quarter schedules with corporate recruitment timelines
 
 Coordinate your course schedule with recruitment windows by reviewing Figure 1 below, mapping your junior and senior internship application phases directly alongside your capstone enrollment.
 
-![Figure 1: Full Stack Developer Graduation Roadmap](gantt-chart.png)
+![Figure 1: Full Stack Developer Graduation Roadmap](gantt-chart.jpeg)
 *Figure 1: Full Stack Developer Graduation Roadmap (maps course sequencing, milestones, and application windows). Created for CSS 301 Process Prewrite.*
 
 ## Developing Professional Communication and Interview Readiness
