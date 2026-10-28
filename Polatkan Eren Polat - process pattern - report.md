@@ -2,6 +2,16 @@
 
 Securing an entry-level Full Stack Developer position requires bridging the gap between standard university coursework and production-level industry expectations. Following a structured graduation learning plan ensures you acquire the necessary system design, cloud deployment, and professional collaboration competencies before entering the job market.
 
+## Table of Contents
+- [Selecting Upper-Division Software and Database Electives](#selecting-upper-division-software-and-database-electives)
+  - [Building Architectural Foundations in Core Engineering Courses](#building-architectural-foundations-in-core-engineering-courses)
+  - [Mastering Backend Data and Cloud Infrastructure](#mastering-backend-data-and-cloud-infrastructure)
+- [Expanding Practical Experience Outside the Classroom](#expanding-practical-experience-outside-the-classroom)
+  - [Contributing to Collaborative GitHub Projects and Hackathons](#contributing-to-collaborative-github-projects-and-hackathons)
+  - [Completing Industry Internships and Capstone Milestones](#completing-industry-internships-and-capstone-milestones)
+- [Developing Professional Communication and Interview Readiness](#developing-professional-communication-and-interview-readiness)
+- [References](#references)
+
 ## Selecting Upper-Division Software and Database Electives
 
 ### Building Architectural Foundations in Core Engineering Courses
