@@ -1,7 +1,7 @@
 # Best Practices for Preparing for a Full Stack Developer Career Before Graduation
 
-![Cover: Software developers collaborating on web application architecture](cover-image.jpg)
-*© Christina @ wocintechchat.com via Unsplash*
+![Cover: Dual-screen software development setup showing source code and web interface](pexels-markusspiske-4439901.jpg)
+*© Markus Spiske via Pexels*
 
 ## Table of Contents
 - [Purpose](#purpose)
