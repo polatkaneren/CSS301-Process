@@ -1,62 +1,69 @@
 # Best Practices for Preparing for a Full Stack Developer Career Before Graduation
 
+![Cover: Software developers collaborating on web application architecture](cover-image.jpg)
+*© Christina @ wocintechchat.com via Unsplash*
+
 ## Table of Contents
 - [Purpose](#purpose)
-- [Selecting Upper-Division Software and Database Electives](#selecting-upper-division-software-and-database-electives)
-  - [Building Architectural Foundations in Core Engineering Courses](#building-architectural-foundations-in-core-engineering-courses)
-  - [Mastering Backend Data and Cloud Infrastructure](#mastering-backend-data-and-cloud-infrastructure)
-- [Expanding Practical Experience Outside the Classroom](#expanding-practical-experience-outside-the-classroom)
-  - [Contributing to Collaborative GitHub Projects and Hackathons](#contributing-to-collaborative-github-projects-and-hackathons)
-  - [Completing Industry Internships and Capstone Milestones](#completing-industry-internships-and-capstone-milestones)
-- [Developing Professional Communication and Interview Readiness](#developing-professional-communication-and-interview-readiness)
+- [Building Core Engineering and Infrastructure Habits](#building-core-engineering-and-infrastructure-habits)
+  - [Applying Architectural Thinking in Core Courses](#applying-architectural-thinking-in-core-courses)
+  - [Pairing Backend Data with Cloud Workflows](#pairing-backend-data-with-cloud-workflows)
+- [Gaining Practical Experience Outside the Classroom](#gaining-practical-experience-outside-the-classroom)
+  - [Building Meaningful Collaborative Code on GitHub](#building-meaningful-collaborative-code-on-github)
+  - [Aligning Internships and Capstone Milestones](#aligning-internships-and-capstone-milestones)
+- [Strengthening Communication and Interview Readiness](#strengthening-communication-and-interview-readiness)
 - [References](#references)
 
 ## Purpose
-Securing an entry-level Full Stack Developer position requires bridging the gap between standard university coursework and production-level industry expectations. Following a structured graduation learning plan ensures you acquire the necessary system design, cloud deployment, and professional collaboration competencies before entering the job market. This document covers essential elective pathways, hands-on portfolio milestones, and communication strategies, which are important because proactive preparation significantly elevates your competitiveness during corporate recruitment cycles.
+Securing an entry-level Full Stack Developer role takes more than finishing standard classes; you need hands-on habits that match how engineering teams ship software. Following a focused graduation plan helps you build practical system design, deployment, and teamwork skills before applying for full-time positions. Using these practices early gives you concrete projects and clear examples to stand out during competitive hiring cycles.
 
-## Selecting Upper-Division Software and Database Electives
+## Building Core Engineering and Infrastructure Habits
 
-### Building Architectural Foundations in Core Engineering Courses
+### Applying Architectural Thinking in Core Courses
 
-Writing local code without understanding structured software lifecycles or design principles leaves you vulnerable to technical debt and disorganized repository architectures. Enterprise development teams rely on formalized design patterns and rigorous engineering processes to maintain scalable codebases across distributed teams.
+Writing local code without structured design habits leaves you vulnerable to technical debt and messy repositories. Team-based software projects rely on clear system structure and deliberate planning so code stays maintainable as features grow.
 
-Enroll in CSS 360 Software Engineering and CSS 370 Analysis and Design early in your junior year to master object-oriented system modeling, UML diagrams, and software lifecycle management. Apply these design principles directly to team projects to simulate real-world software engineering workflows.
+Use required courses like CSS 360 Software Engineering and CSS 370 Analysis and Design to practice disciplined engineering habits rather than treating them as simple checkboxes. Break features into clear modules, sketch system models before writing code, and document design trade-offs during team projects so your work stays easy to follow and update.
 
-### Mastering Backend Data and Cloud Infrastructure
+### Mastering Backend Data and Cloud Workflows
 
-Static frontend interfaces fail to meet production standards unless supported by robust backend data structures and modern cloud deployment pipelines [^2]. Modern full-stack development requires balancing application logic with containerized server environments and cloud database management.
+A frontend interface alone cannot support a production app without dependable data storage and repeatable deployment pipelines [2]. Full stack development requires connecting client code to well-structured databases and predictable server environments.
 
-Schedule CSS 475 Database Systems and CSS 436 Cloud Computing during your senior sequence to master relational database optimization and cloud-native infrastructure provisioning. Pair these courses with independent study on Docker containerization and continuous integration workflows.
+Build end-to-end projects around CSS 475 Database Systems and CSS 436 Cloud Computing by designing clean schemas, writing efficient queries, and deploying services to the cloud. Pair those classes with hands-on practice in Docker containers and automated build-and-test workflows so releases stay consistent.
 
-## Expanding Practical Experience Outside the Classroom
+## Gaining Practical Experience Outside the Classroom
 
-### Contributing to Collaborative GitHub Projects and Hackathons
+### Building Meaningful Collaborative Code on GitHub
 
-Class assignments alone do not simulate the code review, branching complexities, and merge conflict resolution characteristic of professional engineering teams. Engaging with open-source repositories and collegiate hackathons builds your collaborative version control proficiency and demonstrates real-world output to hiring managers [^3].
+Solo class assignments rarely show how teams handle pull requests, merge conflicts, and code reviews. Contributing to shared repositories and hackathons builds real version control habits and gives hiring managers concrete proof of how you work with others [3].
 
-Participate in UWB ACM hackathons and fork active open-source projects on GitHub to practice pull request workflows, issue tracking, and code reviews. Maintain regular contribution graphs to signal technical dedication to prospective employers.
+Join UWB ACM hackathons and contribute to active open-source projects with clear issues and code reviews. Focus on small, well-tested pull requests and thoughtful review comments so your commit history reflects real problem-solving and teamwork rather than empty activity just to fill a chart.
 
-### Completing Industry Internships and Capstone Milestones
+### Aligning Internships and Capstone Milestones
 
-Failing to align academic quarter schedules with corporate recruitment timelines results in missed hiring windows for competitive software engineering internships [^1]. Strategic planning of your final quarters synchronizes graduation milestones with optimal corporate application cycles.
+Missing recruiting deadlines is an easy way to lose out on strong software internships and early-career roles [1]. Planning your quarters around hiring calendars keeps your portfolio and availability ready when applications open.
 
-Coordinate your course schedule with recruitment windows by reviewing Figure 1 below, mapping your junior and senior internship application phases directly alongside your capstone enrollment.
+Map your application prep ahead of peak recruiting windows, and treat your capstone as a flagship project you can explain end to end. Instead of cramming everything into one timeline, focus on the timing trade-off shown in Figure 1 between capstone scope and recruiting cycles.
 
-![Figure 1: Full Stack Developer Graduation Roadmap](JPEG1.jpg)
-*Figure 1: Full Stack Developer Graduation Roadmap (maps course sequencing, milestones, and application windows). Created for CSS 301 Process Prewrite.*
+![Figure 1: Balancing Capstone Scope with Recruiting Windows](JPEG1.jpg)
+*Figure 1: Trade-offs Between Capstone Feature Scope and Internship Recruiting Windows.*
 
 ## Developing Professional Communication and Interview Readiness
 
-Technical competency remains insufficient for hiring success if you cannot articulate your problem-solving process or demonstrate professional teamwork. Recruiters evaluate behavioral soft skills and structured communication alongside your technical coding capabilities during screening pipelines.
+Strong coding skills will not carry you through interviews if you cannot explain how you debugged an issue or worked with a teammate. Recruiters and engineers evaluate clear communication, ownership, and team fit alongside technical ability.
 
-Practice the STAR (Situation, Task, Action, Result) method for behavioral interviews and build National Association of Colleges and Employers (NACE) career readiness competencies through mock technical presentations and informational interviews with industry professionals. Explain complex code adjustments clearly during peer evaluations to refine your technical communication skills.
+Prepare concise STAR (Situation, Task, Action, Result) stories from group projects, part-time work, and hackathons, and practice explaining technical choices in plain language. Conduct informational interviews with working software professionals and give clear feedback during peer evaluations to sharpen how you communicate under pressure [4].
 
 ---
 
 ## References
 
-[^1]: U.S. Bureau of Labor Statistics, "Occupational Outlook Handbook: Software Developers," bls.gov, 06 Sep. 2023. [Online]. Available: https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm. [Accessed Oct. 22, 2026].
+[1] U.S. Bureau of Labor Statistics, "Occupational Outlook Handbook: Software Developers," *U.S. Bureau of Labor Statistics*, Sep. 6, 2023. [Online]. Available: https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm. [Accessed Oct. 22, 2026].
 
-[^2]: D. Cassel, "What Do Full-Stack Developers Actually Do Today?", The New Stack, 14 Feb. 2024. [Online]. Available: https://thenewstack.io/what-do-full-stack-developers-today/ [Accessed Oct. 22, 2026].
+[2] D. Cassel, "What Do Full-Stack Developers Actually Do Today?", *The New Stack*, Feb. 14, 2024. [Online]. Available: https://thenewstack.io/what-do-full-stack-developers-today/. [Accessed Oct. 22, 2026].
 
-[^3]: GitHub Docs, "Contributing to a project," GitHub, Inc., 2026. [Online]. Available: https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project. [Accessed Oct. 22, 2026].
+[3] GitHub Docs, "Contributing to a project," *GitHub Docs*, 2026. [Online]. Available: https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project. [Accessed Oct. 22, 2026].
+
+[4] [Interviewee Name], Informational Interview with [Role/Company], [Month Day, Year]. *(Add full IEEE interview details here so your informational interview citation is complete.)*
+
+[word count: 604]
