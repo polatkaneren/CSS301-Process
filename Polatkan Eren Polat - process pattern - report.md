@@ -45,8 +45,8 @@ Missing recruiting deadlines is an easy way to lose out on strong software inter
 
 Map your application prep ahead of peak recruiting windows, and treat your capstone as a flagship project you can walk through in detail. Instead of cramming everything into one timeline, focus on the timing trade-off shown in Figure 1 between capstone scope and recruiting cycles.
 
-![Figure 1: Balancing Capstone Scope with Recruiting Windows](JPEG1.jpg)
-*Figure 1: Trade-offs Between Capstone Feature Scope and Internship Recruiting Windows.*
+![Figure 1: Internship and Capstone Sequencing Flow](internship-capstone-flow.png)
+*Figure 1: Sequencing and Decision Flow from Project Readiness to Post-Graduation Applications.*
 
 ## Developing Professional Communication and Interview Readiness
 
